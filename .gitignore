@@ -67,3 +67,6 @@ Thumbs.db
 *.worldedit
 *.sct
 *.afm
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
